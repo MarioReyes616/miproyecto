@@ -3,9 +3,9 @@ public class HolaMundo {
         
         String nombre= "Estudiante";
 
-        int a=5;
+        int a=10;
 
-        int b=3;
+        int b=7;
 
         int suma = a+b;
 
