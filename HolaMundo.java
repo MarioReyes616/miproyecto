@@ -9,9 +9,13 @@ public class HolaMundo {
 
         int multi= a*b;
 
+        System.out.println("Hola, profesor");
+        
         System.out.println("Hola, "+nombre+"!" );
         
         System.out.println("La suma de "+a+"*"+b+" es:"+multi);
+
+        
     
     }
 
